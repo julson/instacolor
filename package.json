@@ -1,0 +1,15 @@
+{
+  "name" : "instacolor",
+  "version" : "0.0.1",
+  "description" : "Getting the average color of instagram images",
+  "repository" : {
+    "type" : "git",
+    "url": "https://github.com/julson/instacolor"
+  },
+  "dependencies" : {
+    "gm" : "1.16.0",
+    "request" : "2.40.0",
+    "lodash" : "2.4.1",
+    "onecolor" : "2.4.2"
+  }
+}
